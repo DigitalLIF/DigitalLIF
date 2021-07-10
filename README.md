@@ -13,4 +13,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-👉1. Realize the protection of the rights and interests of users' personal data assets, the protection of personal privacy, and the sharing of benefits of user information through blockchain technology.
+-👉2. Under the premise of ensuring personal privacy and data security, explore the realization of more accurate data confirmation, more convenient data transactions, more reasonable data use, promote fair competition, and oppose monopoly.
+-👉3. Establish a consensus on the assetization of users’ personal data through the DLIF platform, create data products based on user big data, and build a profit model. Finally, we are determined to build the DLIEF platform into the world’s largest user data operator on the Internet 3.0 and share the benefits of the platform .
+-👉4. Let every consumer truly own and monetize personal data.
+-👉5. In the era of big data, data is oil and wealth. Large Internet companies use these data as user portraits, marketing, e-commerce, and even sharing and trading among different companies for profit, and even more. A lot of user privacy leakage issues have been raised.
+-👉6. Data is the property of each of our users. It is owned by the user, but it is taken by big companies and becomes their profit channel, but it has nothing to do with us.
+-👉7. Receiving technical limitations in the past, users’ own data cannot be transferred, transferred, or sold by users themselves. The silent public has gradually turned into active users, but has lost the sovereignty over the realization of user data assets. .
+
 -->
